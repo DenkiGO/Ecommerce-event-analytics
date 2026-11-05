@@ -153,7 +153,7 @@ Filters by period, user segment (by number of sessions) and trend granularity. D
 ```
 Ecommerce-Events-Analytics/
 ├── data/
-│   └── events.csv             # download from Kaggle, not in the repository
+│   └── events.csv             
 ├── img/                       # figures for the README
 ├── notebooks/
 │   └── event_analytics.ipynb  # full analysis

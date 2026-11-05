@@ -153,7 +153,7 @@
 ```
 Ecommerce-Events-Analytics/
 ├── data/
-│   └── events.csv             # скачивается с Kaggle, в репозиторий не входит
+│   └── events.csv             
 ├── img/                       # графики для README
 ├── notebooks/
 │   └── event_analytics.ipynb  # полный анализ
